@@ -4,4 +4,4 @@ Oyun kartlarını satın alabilecek ve oyuna baglanılabilecek bir kaç uygulama
 HTML ve CSS kullanılmıştır
 <h3>Ekran kaydedici</h3>
 
-![](screen.mp4)
+![](screen.gif)
